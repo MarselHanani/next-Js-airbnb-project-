@@ -4,7 +4,7 @@ import Header from "../Components/Header/Header";
 import { getSearchResult } from "../utils/api";
 import { SearchResultData } from "../types/app";
 import ListingCard from "../Components/ListingCard";
-import Map from "../components/Map";
+import Map from "../Components/Map";
 
 type SearchParams = {
   location: string;
